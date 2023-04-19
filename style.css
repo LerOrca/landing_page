@@ -1,0 +1,158 @@
+body {
+  margin: 0px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  background-color: #1F2937;
+  color: white;
+  padding: 20px;
+}
+
+.header-right {
+  display: flex;
+  font-size: 15px;
+  padding: 5px;
+}
+
+.header-link {
+  margin: 5px;
+}
+
+.title {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  column-gap: 50px;
+  background-color: #1F2937;
+  color: white;
+  padding: 20px;
+}
+
+.main-text {
+  font-weight: bolder;
+  font-size: 48px;
+}
+
+.secondary-text {
+  font-size: 18px;
+}
+
+.button1 {
+  color: white;
+  width: 90px;
+  height: 35px;
+  margin-top: 20px;
+  background-color: #3882f6;
+  border-color: white;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.second-line {
+  padding: 20px;
+}
+
+.paragraph {
+  font-size: 30px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.image-box {
+  text-align: center;
+}
+
+.illustration {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+}
+
+.thumbnail {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.third-line {
+  background-color: #e5e7eb;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.quote {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 70px;
+  margin-right: 70px;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1f2937;
+}
+
+.author {
+  font-size: 17px;
+  float: right;
+  font-weight: bold;
+}
+
+.content {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border-style: solid;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 55px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 55px;
+  background-color: #3882f6;
+  border-radius: 7px;
+}
+
+.banner {
+  display: grid;
+  
+}
+
+.call {
+  font-weight: bold;
+  float: left;
+}
+
+.sign-up {
+  float: left;
+  font-size: 15px;
+}
+
+.button2 {
+  float: right;
+  color: white;
+  width: 90px;
+  height: 30px;
+  background-color: #3882f6;
+  border-color: white;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+
+.copyright {
+  padding: 20px;
+  background-color: #1F2937;
+  color: white;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
+  
